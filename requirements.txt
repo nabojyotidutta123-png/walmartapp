@@ -1,0 +1,26 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+# Forecasting
+prophet
+
+# Deep Learning
+tensorflow
+
+# Reinforcement Learning
+gymnasium
+stable-baselines3
+
+# Dashboard
+streamlit
+plotly
+
+# Utilities
+python-dateutil
